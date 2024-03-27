@@ -68,7 +68,7 @@ module.exports = withMT({
       sd90: "#004b71", //Secondary Container Color
       sd10: "#cbe6ff", //Secondary Container Text Color
 
-      //++++++++++++++++Tertiary Colors+++++++++++++++++++++//
+      //++++++++++++++++Tertiary Colors++++++++++++++++++++//
 
       td40: "#dfbbde", //Tertiary Color
       tdt: "#402743", //Tertiary Text Color

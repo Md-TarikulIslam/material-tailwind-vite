@@ -75,7 +75,7 @@ module.exports = withMT({
       td90: "#593e5a", //Tertiary Container Color
       td10: "#fcd7fb", //Tertiary Container Text Color
 
-      //++++++++++++++++Error Colors+++++++++++++++++++++//
+      //++++++++++++++++Error Colors++++++++++++++++++++//
 
       ed40: "#ffb4ab", //Error Color
       edt: "#690005", //Error Text Color
